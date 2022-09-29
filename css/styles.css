@@ -1,0 +1,139 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 7% 12%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "ubuntu";
+}
+
+.navbar .container-fluid {
+  padding: 0 12% 0 0;
+}
+
+.acquifire-title-logo {
+  width: 4%;
+  margin-right: 0.3rem;
+  position: relative;
+  bottom: 0.2rem;
+}
+
+.sign-up-icon {
+  margin: 5px 8px 5px 5px;
+}
+
+/* Title Section */
+
+#title {
+  background-color: #256D85;
+}
+
+.homepage {
+  padding-top: 10rem;
+}
+
+.acquifire-homepage-image {
+  width: 130%;
+}
+
+.homepage-h1 {
+  text-align: left;
+  font-weight: 700;
+  color: white;
+}
+
+.acquifire-homepage-logo {
+  width: 200px;
+  text-align: center;
+}
+
+.download-button {
+  margin: 2rem 0.5rem;
+  font-weight: 400;
+}
+
+.download-buttons {
+  text-align: left;
+}
+
+/* Features */
+
+#features {
+  padding-top: 5rem;
+}
+
+.features-titles {
+  font-weight: 700;
+  padding-bottom: 2rem;
+}
+
+.features-icons {
+  color: #256D85;
+  margin-bottom: 2rem;
+}
+
+.features-text {
+  color: #6c757d;
+}
+
+.features-col {
+  padding: 0 2rem;
+}
+
+/* How it works section */
+
+#howitworks {
+  background: #8BBCCC;
+  color: white;
+
+}
+
+.howitworks-title {
+  margin-top: 3rem;
+  font-weight: 700;
+}
+
+#howitworks p {
+  color:#256D85;
+}
+
+#howitworks .container-fluid {
+  padding: 3% 12%;
+}
+
+.howitworks-images {
+  width:70%;
+}
+
+/* Contact Us */
+
+#contact-us {
+  color: #256D85;
+}
+
+#contact-us h2 {
+  font-weight: 700;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #256D85;
+  color: white;
+}
+
+#footer .container-fluid {
+  padding-bottom: 1rem;
+  padding-top: 3rem;
+}
+
+.footer-icon {
+  margin: 1%;
+}
